@@ -1,5 +1,4 @@
 Paper : Probability Weighted Compact Feature for Domain Adaptive Retrieval<br />
-Author : Fuxiang Huang and Lei Zhang<br />
 Published in CVPR 2020<br />
 Contact : huangfuxiang@cqu.edu.cn<br />
 more datasets: at https://pan.baidu.com/s/1EVlYCz51AyDnh5y7PJ5W_Q?pwd=qyrv<br />
