@@ -8,6 +8,7 @@ more datasets: at https://pan.baidu.com/s/1EVlYCz51AyDnh5y7PJ5W_Q?pwd=qyrv<br />
 
 Cite: If you find this code useful in your research then please cite
 
+```bibtex
 @inproceedings{huang2020PWCF,
   title={Probability Weighted Compact Feature for Domain Adaptive Retrieval},  
   author={Huang, Fuxiang and Zhang, Lei and Yang, Yang and Zhou, Xichuan},  
@@ -25,3 +26,4 @@ Cite: If you find this code useful in your research then please cite
   pages={1-15},    
   doi={10.1109/TNNLS.2021.3071127}  
 }
+```
